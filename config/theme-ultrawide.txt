@@ -48,5 +48,5 @@ terminal-border: "0"
   id = "__timeout__"
   text = "Booting in %d seconds"
   color = "#000000"
-  font = "joystix Regular 12"
+  font = "joystix Regular 8"
 }
