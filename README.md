@@ -27,11 +27,6 @@ sudo ./install.sh -b -t
 ```sh
 sudo ./install.sh -r -t
 ```
-## Documents
-
-[Grub2 theme reference](https://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference)
-
-[Grub2 theme tutorial](https://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
 
 ## Thanks to
 This repo is build upon the [grub2-theme](https://github.com/vinceliuice/grub2-themes)
