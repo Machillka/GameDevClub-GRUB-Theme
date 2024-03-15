@@ -19,7 +19,7 @@ terminal-border: "0"
   top = 30%
   width = 40%
   height = 40%
-  item_font = "joystix Regular 14"
+  item_font = "joystix Regular 12"
   item_color = "#000000"
   selected_item_color = "#333333"
   icon_width = 32
@@ -47,6 +47,6 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   text = "Booting in %d seconds"
-  color = "#cccccc"
-  font = "joystix Regular 14"
+  color = "#000000"
+  font = "joystix Regular 12"
 }
