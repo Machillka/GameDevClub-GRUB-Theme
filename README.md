@@ -5,10 +5,10 @@ The grub theme is about Game Development Club which from the game Blue Archive.
 Usage:  `sudo ./install.sh [OPTIONS...]`
 
 ```
-  -t, --theme     theme variant(s)          [tela|vimix|stylish|whitesur]       (default is tela)
+  -t, --theme     theme variant(s)
   -i, --icon      icon variant(s)           [color|white|whitesur]              (default is color)
   -s, --screen    screen display variant(s) [1080p|2k|4k|ultrawide|ultrawide2k] (default is 1080p)
-  -r, --remove    Remove theme              [tela|vimix|stylish|whitesur]       (must add theme name option, default is tela)
+  -r, --remove    Remove theme
 
   -b, --boot      install theme into '/boot/grub' or '/boot/grub2'
   -g, --generate  do not install but generate theme into chosen directory       (must add your directory)
