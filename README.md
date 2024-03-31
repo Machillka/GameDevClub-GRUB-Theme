@@ -29,8 +29,13 @@ sudo ./install.sh -r -t
 ```
 
 ## Update
-~~use this script to customizer your own blue archive theme~~
+use the **update.sh** to customizer your own blue archive theme
 
+Usage: `sudo bash update.sh [OPTIONS...]`
+the prompts are the same to **install.sh**
+
+### Background
+put your background into the folder customizer (Only *.png *.jpg, *.jpge are allowed)
 
 ## Source
 Welcome to view the [website](https://www.pling.com/p/2142175/) to download this theme and leave a star! (Thx)
