@@ -31,6 +31,7 @@ sudo ./install.sh -r -t
 ## Update
 ~~use this script to customizer your own blue archive theme~~
 
+
 ## Source
 Welcome to view the [website](https://www.pling.com/p/2142175/) to download this theme and leave a star! (Thx)
 
