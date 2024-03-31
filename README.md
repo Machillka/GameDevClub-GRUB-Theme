@@ -32,6 +32,7 @@ sudo ./install.sh -r -t
 use the **update.sh** to customizer your own blue archive theme
 
 Usage: `sudo bash update.sh [OPTIONS...]`
+
 the prompts are the same to **install.sh**
 
 ### Background
