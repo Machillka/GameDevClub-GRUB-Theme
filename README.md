@@ -1,6 +1,6 @@
 The grub theme is about Game Development Club which from the game Blue Archive.
 
-![Preview](/backgrounds/1080p/background-tela.jpg "Preview")
+![Preview](preview.png "Preview")
 
 ## Installation:
 
